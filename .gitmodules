@@ -1,0 +1,6 @@
+[submodule "ply-format"]
+	path = ply-format
+	url = https://github.com/tnakaicode/ply-format.git
+[submodule "stl-format"]
+	path = stl-format
+	url = https://github.com/tnakaicode/stl-format.git
