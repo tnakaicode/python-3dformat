@@ -12,9 +12,23 @@ build/*
 # Doc
 *.pdf
 *.docx
-tex2pdf*/*
+*.pyc
+*.swp
+*.egg-info
+plyfile-venv/
+build/
+dist/
+.tox
+.cache
+.pytest_cache
 
 #tmp
 tmp/*
 temp_*/*
 */temp_*/*
+
+# Doc
+*.pdf
+*.html
+*.docx
+*~
